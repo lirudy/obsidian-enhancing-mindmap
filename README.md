@@ -1,7 +1,7 @@
 # obsidian-enhancing-mindmap-plugin
 
-1 修改了大标题下的文本会消失的问题，改为无序号列表
-2 增强：任何markdown代码都可以与mindmap相互转换
+- 修改了大标题下的文本会消失的问题，改为无序号列表
+- 增强：任何markdown代码都可以与mindmap相互转换
 
 [English](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap) [中文](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap/blob/main/Readme-zh.md)
 
